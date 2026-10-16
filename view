@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Chair Tools</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="topBar">
+        <h1>Committee Name</h1>
+    </div>
+    <div id="motionsBox">
+        <div class="motion">
+            <p>
+                <span class="motionCountry">Country Name</span>:
+                <span class="motionContent">Content of the Motion</span>
+                <span class="motionTopic">on Topic</span>
+            </p>
+        </div>
+        <div class="motion"> <p> <span class="motionCountry passed">Country Name</span>: <span class="motionContent passed">Content of the Motion</span> <span class="motionTopic">on Topic</span> </p> </div><div class="motion"> <p> <span class="motionCountry">Country Name</span>: <span class="motionContent">Content of the Motion</span> <span class="motionTopic">on Topic</span> </p> </div><div class="motion"> <p> <span class="motionCountry">Country Name</span>: <span class="motionContent">Content of the Motion</span> <span class="motionTopic">on Topic</span> </p> </div><div class="motion"> <p> <span class="motionCountry">Country Name</span>: <span class="motionContent">Content of the Motion</span> <span class="motionTopic">on Topic</span> </p> </div><div class="motion"> <p> <span class="motionCountry">Country Name</span>: <span class="motionContent">Content of the Motion</span> <span class="motionTopic">on Topic</span> </p> </div><div class="motion"> <p> <span class="motionCountry">Country Name</span>: <span class="motionContent">Content of the Motion</span> <span class="motionTopic">on Topic</span> </p> </div>
+    </div>
+</body>
+</html>
